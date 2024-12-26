@@ -12,7 +12,7 @@ A simple and responsive arithmetic calculator built with **HTML**, **CSS**, and 
 - Clear and error handling features
 
 ## Demo:
-Check out the live demo of the Basic Arithmetic Calculator [here](link-to-demo).
+Check out the live demo of the Basic Arithmetic Calculator [basic-arithmetic-calculator-musmandeveloper.vercel.app/](https://basic-arithmetic-calculator-musmandeveloper.vercel.app/).
 
 ## Installation:
 To use this calculator on your project, follow these simple steps:
